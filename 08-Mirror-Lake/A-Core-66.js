@@ -12,4 +12,4 @@ function solution(divisors, k) {
 
 }
 
-console.log([2, 3], 6) // 4
+console.log(solution([2, 3], 6)) // 4
